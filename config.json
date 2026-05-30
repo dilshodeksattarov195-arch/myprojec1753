@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperrender",
+        "uuid": 2310454,
+        "checksum": "tvjsa"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
